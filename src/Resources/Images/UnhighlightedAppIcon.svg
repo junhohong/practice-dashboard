@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="21px" viewBox="0 0 20 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>dash icon_active</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="4A.-Truck-List-Copy-4" transform="translate(-43.000000, -332.000000)">
+            <g id="Main-Menu" transform="translate(-7.000000, -6.000000)">
+                <g id="truck-menu-copy" transform="translate(50.000000, 337.000000)">
+                    <g id="drop-copy-8" transform="translate(10.000000, 11.096154) rotate(180.000000) translate(-10.000000, -11.096154) translate(0.000000, 0.923077)">
+                        <rect id="Rectangle" fill="#9B9B9B" x="10.1" y="5.68434189e-14" width="9.9" height="10.3"></rect>
+                        <circle id="Oval" fill="#FFFFFF" cx="10.05" cy="10.35" r="3.75"></circle>
+                        <path d="M10,0 C15.5228475,-1.01453063e-15 20,4.4771525 20,10 C20,15.5228475 15.5228475,20 10,20 C4.4771525,20 6.76353751e-16,15.5228475 0,10 C-6.76353751e-16,4.4771525 4.4771525,1.01453063e-15 10,0 Z" id="Rectangle" fill="#9B9B9B"></path>
+                        <circle id="Oval" fill="#FFFFFF" cx="6.3" cy="10.1" r="1"></circle>
+                        <circle id="Oval-Copy" fill="#FFFFFF" cx="10.1" cy="10.1" r="1"></circle>
+                        <circle id="Oval-Copy-2" fill="#FFFFFF" cx="13.8" cy="10.1" r="1"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

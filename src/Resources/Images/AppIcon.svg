@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="52px" viewBox="0 0 52 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Group Copy 4</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.800000012">
+        <g id="7A.-Login-Copy-2" transform="translate(-286.000000, -122.000000)">
+            <g id="Group-Copy-4" transform="translate(312.000000, 148.000000) rotate(180.000000) translate(-312.000000, -148.000000) translate(286.000000, 122.000000)">
+                <g id="drop-copy-4">
+                    <rect id="Rectangle" fill="#001689" x="26.26" y="5.68434189e-14" width="25.74" height="26.78"></rect>
+                    <circle id="Oval" fill="#FFFFFF" cx="26.13" cy="26.91" r="9.75"></circle>
+                    <path d="M26,0 C40.3594035,-2.63777963e-15 52,11.6405965 52,26 C52,40.3594035 40.3594035,52 26,52 C11.6405965,52 1.75851975e-15,40.3594035 0,26 C-1.75851975e-15,11.6405965 11.6405965,2.63777963e-15 26,0 Z" id="Rectangle" fill="#001689"></path>
+                    <circle id="Oval" fill="#FFFFFF" cx="16.38" cy="26.26" r="2.6"></circle>
+                    <circle id="Oval-Copy" fill="#FFFFFF" cx="26.26" cy="26.26" r="2.6"></circle>
+                    <circle id="Oval-Copy-2" fill="#FFFFFF" cx="35.88" cy="26.26" r="2.6"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
