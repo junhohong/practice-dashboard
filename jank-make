@@ -1,0 +1,57 @@
+#!/bin/bash
+
+cat > $1.tsx <<EOF
+import React from "react"; 
+import * as Types from "Common/Types";
+import * as Models from "Common/Models";
+import * as Utility from "Common/Utility";
+
+import * as Render from "./$1+Render";
+
+import { FunctionManager } from "Manager/FunctionManager";
+
+export class $1 extends React.PureComponent<
+  Types.$1.Props,
+  Types.$1.State
+> {
+  constructor(props: Types.$1.Props) {
+    super(props);
+  }
+  render() {
+    return Render.display(this);
+  }
+}
+EOF
+
+cat > $1+Render.tsx <<EOF
+import React from "react"; 
+import * as Styled from "./$1+Styled";
+import * as Types from "Common/Types";
+import * as Models from "Common/Models";
+import * as CommonViews from "Common/Views";
+
+import { $1 } from "./$1";
+
+export const display = (obj: $1) => {
+  return <div />;
+};
+EOF
+
+cat > $1+Styled.tsx <<EOF
+import * as Types from "Common/Types";
+import * as Models from "Common/Models";
+import styled, { StyledComponent } from "styled-components";
+
+export const Container = styled.div`
+`;
+EOF
+
+
+cat > $1+Types.tsx <<EOF
+import * as Types from "Common/Types";
+import * as Models from "Common/Models";
+
+export interface Props {}
+export interface State {}
+EOF
+
