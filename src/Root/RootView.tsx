@@ -11,8 +11,8 @@ export class RootView extends React.PureComponent<
   constructor(props: Types.RootView.Props) {
     super(props);
     this.state = {
-      // loggedIn: false
-      loggedIn: true
+      loggedIn: false
+      // loggedIn: true
     };
     FunctionManager.shared().setLoggedIn = this.setLoggedIn;
   }
